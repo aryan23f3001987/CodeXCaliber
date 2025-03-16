@@ -1,0 +1,8 @@
+openai-whisper
+ffmpeg-python
+streamlit
+pandas
+numpy
+pydub
+speechrecognition
+scipy
