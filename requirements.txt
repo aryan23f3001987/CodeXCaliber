@@ -6,3 +6,12 @@ numpy
 pydub
 speechrecognition
 scipy
+pytesseract
+transformers
+datasets
+torch
+sentencepiece
+accelerate
+tf-keras
+tesseract
+streamlit
